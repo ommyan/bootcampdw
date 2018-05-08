@@ -2,5 +2,9 @@
     {
         "merged": "/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/xml/preferences.xml"
     }
 ]

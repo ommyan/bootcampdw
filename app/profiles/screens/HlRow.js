@@ -8,16 +8,12 @@ export default class HlRow extends Component {
         return (
             <View style={styles.hl} >
                 <ListItem  
-                key={i}
+                key={this.props.item.id}
                 >
-                <Left>
-                <Icon name="Add" />
-                />
-                
-                </Left>
                 <Body>
-                <Text style={{fontWeight: 'bold',fontSize: 11}}>{props.item.hl}at</Text>
+                <Text style={{fontWeight: 'bold',fontSize: 11}}>  {this.props.item.id} . {this.props.item.hl}</Text>
                 </Body>
+                
                 </ListItem>
             </View>
         );
@@ -27,7 +23,7 @@ export default class HlRow extends Component {
 const styles = StyleSheet.create({
     hl: {
         backgroundColor: '#ffff',
-        padding:15,
+        padding:5,
         flex: 1,
         marginLeft: 10,
             marginRight: 10,

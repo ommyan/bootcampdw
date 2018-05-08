@@ -6,6 +6,7 @@ import {connect} from 'react-redux'
 import {allProfiles} from '../action'
 import {allHl} from '../action'
 import HlRow from '../screens/HlRow'
+
 const remote = 'https://s15.postimg.org/tw2qkvmcb/400px.png';
 
 class Profiles extends Component {
@@ -20,17 +21,13 @@ class Profiles extends Component {
         return (
             <Container>
                 <Content>
-                <View style={[{flex: 1}, styles.profileImage]}>
-                <ImageBackground
-                resizeMode={'stretch'} // or cover
-                style={{flex: 1,justifyContent='center', alignItems='center'}} // must be passed from the parent, the number may vary depending upon your screen size
-                source={require('../../../assets/background.jpeg')}
-                >
+                <View style={{flex: 1}}>
+               
 
                     
                 <View style={styles.profileImage}>
                 <Image source={require('../../../assets/download.jpeg')}
-                style={{alignSelf: 'center', width: 120, height: 120, borderRadius: 120/2}} />
+                style={{alignSelf: 'center', width: 120, height: 120,borderWidth: 3,borderColor: '#ffff', borderRadius: 120/2}} />
                 </View>
 
                         <View style={styles.profile} >
@@ -59,6 +56,7 @@ class Profiles extends Component {
                             </Button>
                         </View> 
 
+                        
                         {this.props.profilsReducer.profils.map((proff,i)=>(
                             <View key={i} style={styles.textDisplay}>
                             <Text style={{fontWeight: 'bold',fontSize: 10, alignItems:'center', justifyContent: 'center'}}>{proff.description} at</Text>
@@ -69,14 +67,15 @@ class Profiles extends Component {
                         </View>
 
                         <View style={styles.hl} >
-                        <List>
-                        {this.props.profilsReducer.hl.map((h,i)=>(
-                         <HlRow item={h} />  
-                        ))}    
-                        </List>
+                            <List>
+                                {this.props.profilsReducer.hl.map((h,i)=>(
+                                <HlRow item={h} />  
+                                ))}    
+                            </List>
                         </View>
+                        
 
-                </ImageBackground>
+                
                 </View>
 
                     

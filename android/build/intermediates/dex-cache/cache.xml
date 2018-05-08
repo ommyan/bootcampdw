@@ -3,39 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_215a62949291e54e408416a38112f14d9717edb5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_278ad896709036da4448701a36ef0bc757a3c376.jar" />
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d1bdef9d1f34972096d5f1a6f944278bf18d4fc4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/yan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_48c3007e49e58ad8ecce72361277f2cdfe239ace.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.1_1df1ee1d96653d9e999703bc211b91fb586b4622.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0cf02e1767064c588e768dc20075f50abfbc34d4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,12 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/yan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_05ba74627201d9e8cf06cbcfb83f4900ecbd86f4.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ba5a1f373b56e90f1dd2d35d2eddda9cd19425d6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +93,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_de9c4886f67881649ddc6bc58ac1fa96a7c01f27.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7bfb3571693b35a09b067eb7f3b0d26b63626493.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,12 +111,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b306c5820cb4080fcec4f5171b35e6353f8a355c.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_77d8d7d5c516a76046aa65ee5ae5450075ac06ab.jar" />
     </item>
     <item
         is-multidex="false"
@@ -144,15 +126,6 @@
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
         <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_fce71b6d15db0dfcfaa08e6abad8764d6198cae9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_f8ff970f033ceaeacca8ee2a80bb2c7699f8529a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,21 +147,165 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6c4b2254907675ffe5a177bf3fb3fb5eb1d95343.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/yan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a48dca4413071d1ec0fc570defad02ddc83111cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_215a62949291e54e408416a38112f14d9717edb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_278ad896709036da4448701a36ef0bc757a3c376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_24c340de601020f20e92250a00d09bdd27417cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_48c3007e49e58ad8ecce72361277f2cdfe239ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.1_1df1ee1d96653d9e999703bc211b91fb586b4622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_d3267ee5c1cfadbe4d85d823e1cab9fee4659d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_f382fa813f537a5602ae7f5d17f3e17a977274d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_05ba74627201d9e8cf06cbcfb83f4900ecbd86f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.1_5214f912700b4469bd3c0680259bd4401283af17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_758a7f66705c4ea91f48b59f4ca6b012bc3ca11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_de9c4886f67881649ddc6bc58ac1fa96a7c01f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_892bb6fed3c2355a836afdc75b8c49319cae5e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5ba7c5b4c14332bf06151dec6b147fc9c60c84d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/ujian/ujian/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2aae6c5dea17ec4d165e4ce587af7245d063be57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b306c5820cb4080fcec4f5171b35e6353f8a355c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_f8ff970f033ceaeacca8ee2a80bb2c7699f8529a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/WorkData/Dev/JAVASCRIPT/bootcamp-dw/belajar/LaRissa/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6c4b2254907675ffe5a177bf3fb3fb5eb1d95343.jar" />
     </item>
 
 </items>

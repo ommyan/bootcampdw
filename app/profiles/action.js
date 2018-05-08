@@ -16,52 +16,37 @@ import axios from 'axios'
 //   }
 // }
 
-// const allProfiles = () => {
-
-//   return {
-//     type: 'ALL_PROFILES',
-//     payload:[
-//       {id:'1', 
-//       name:'Mariant Hant',
-//       title: 'Directior Of Project Manajemen', 
-//       company:'Golden Phase Solar',
-//       university: 'Syracus University',
-//       city: 'New York',
-//       description: 'Iam a renewable energy executive with 10 years experience nd have build strong skill in getting'
-//     }
-//     ] 
-//   }
-// }
-
 const allProfiles = () => {
-  const url = 'https://192.168.45.191/profiles'
+
   return {
     type: 'ALL_PROFILES',
-    payload: axios({
-            method: 'get',
-            headers: {
-              'Content-Type': 'application/json',
-              'user-token': 'C2968876-EF69-89FE-FF2D-4477FF165800'
-            },
-            url
-          })
-        }
+    payload:[
+      {id:'1', 
+      name:'Mariant Hant',
+      title: 'Directior Of Project Manajemen', 
+      company:'Golden Phase Solar',
+      university: 'Syracus University',
+      city: 'New York',
+      description: 'Iam a renewable energy executive with 10 years experience nd have build strong skill in getting'
+    }
+    ] 
+  }
 }
 
 const allHl = () => {
-  const url = 'https://192.168.45.191/profiles'
+ 
   return {
     type: 'ALL_HL',
-    payload: axios({
-      method: 'get',
-      headers: {
-        'Content-Type': 'application/json',
-        'user-token': 'C2968876-EF69-89FE-FF2D-4477FF165800'
-      },
-      url
-    })
-  }
+    payload: [
+      {id:'1',hl:'Merubah Energy listrik menjadi energi air'},
+      {id:'2',hl:'Merubah Energy listrik menjadi energi air'},
+      {id:'3',hl:'Merubah Energy listrik menjadi energi air'},
+      {id:'4',hl:'Merubah Energy listrik menjadi energi air'}
+    ] 
+        }
 }
+
+
 
 export {
   allProfiles,
